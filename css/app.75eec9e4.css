@@ -1,0 +1,1 @@
+.hover-trigger .hover-target{display:none}.hover-target div:first-of-type{text-align:center}.hover-trigger:hover .hover-target{display:block}#darkmode:checked~label div{--tw-bg-opacity:1;background-color:rgba(31,41,55,var(--tw-bg-opacity))}#darkmode:checked~label div.toggle-dot{--tw-translate-x:0.75rem;--tw-bg-opacity:1;background-color:rgba(75,85,99,var(--tw-bg-opacity))}
