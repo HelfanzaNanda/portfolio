@@ -1,0 +1,132 @@
+{
+    "name": "Helfanza Nanda Alfara",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Helfanza Nanda Alfara",
+    "headerTaglineThree": "Web Developer",
+    "headerTaglineFour": "Laravel | Nuxt",
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/helfanzananda"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/helfanza-nanda-alfara-1915221b4/"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:helfanzananda.id@gmail.com"
+        },
+        {
+            "id": "5",
+            "title": "WA",
+            "link": "http://wa.me/6285156656263"
+        },
+        {
+            "id": "6",
+            "title": "Download CV",
+            "link": "../helfanza-nanda-alfara-cv.pdf"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Vencap",
+            "description": "Aplikasi untuk Vendor Capability Telkomsel",
+            "imageSrc": "../portfolio/verona.jpeg",
+            "technologies" : ["NuxtJs 3", "Yii 2", "Oracle", "Tailwind CSS"],
+            "url": "https://verona.telkomsel.com/fut"
+        },
+        {
+            "id": "2",
+            "title": "Referral",
+            "description": "Aplikasi Poin Agent Telkomsel",
+            "imageSrc": "../portfolio/referral.jpeg",
+            "technologies" : ["laravel 8 + JQuery", "Go Language", "Oracle", "Bootstrap 5"],
+            "url": "https://lolyta.telkomsel.com/referral"
+        },
+        {
+            "id": "3",
+            "title": "Daisy",
+            "description": "Aplikasi Akuntasi Telkomsel",
+            "imageSrc": "./portfolio/daisy.jpeg",
+            "technologies" : ["laravel 9 + JQuery", "Laravel 9", "Postgree", "Tailwind CSS"],
+            "url": "http://daisy.com/"
+        },
+        {
+            "id": "4",
+            "title": "Apotek",
+            "description": "Tugas Akhir - Sistem Kasir Apotek",
+            "imageSrc": "./portfolio/apotek.png ",
+            "technologies" : ["laravel + JQuery", "Laravel", "MySql", "Bootstrap"],
+            "url": ""
+        },
+        {
+            "id": "5",
+            "title": "Travelme",
+            "description": "Tugas Akhir - Pemesanan Travel",
+            "imageSrc": "./portfolio/travelme.png",
+            "technologies" : ["laravel + JQuery", "Laravel", "MySql", "Bootstrap"],
+            "url": ""
+        },
+        {
+            "id": "6",
+            "title": "Felicity",
+            "description": "Slicing Web",
+            "imageSrc": "./portfolio/felicity.png",
+            "technologies" : ["Tailwind CSS"],
+            "url": ""
+        },
+        {
+            "id": "7",
+            "title": "Emaji",
+            "description": "Tugas Akhir - Sistem Pemeliharaan Alat",
+            "imageSrc": "./portfolio/emaji.png",
+            "technologies" : ["laravel + JQuery", "Laravel", "MySql", "Bootstrap", "Kotlin - Android"],
+            "url": ""
+        },
+        {
+            "id": "8",
+            "title": "Fruitman",
+            "description": "Tugas Akhir - Aplikasi Pencarian Buah Siap Panen",
+            "imageSrc": "./portfolio/emaji.png",
+            "technologies" : ["laravel + JQuery", "Laravel", "MySql", "Bootstrap", "Kotlin - Android"],
+            "url": ""
+        }
+    ],
+    "skills" : [
+        { "id": 1, "name": "Bootstrap" },
+        { "id": 1, "name": "JQuery" },
+        { "id": 2, "name": "Tailwind CSS" },
+        { "id": 3, "name": "Laravel" },
+        { "id": 4, "name": "Nuxt JS" },
+        { "id": 5, "name": "Next JS", "description" : "On Going" },
+        { "id": 6, "name": "Go Language" },
+        { "id": 7, "name": "Nginx" }
+    ],
+    "aboutme": "I'm Elfan, a Web Developer",
+    "subTitle": "I already have experience building web app and now currently i focused on pursuit my career as a Web Developer.",
+    "description": "Hello and welcome to my website! My name is Helfanza Nanda Alfara and nickname Elfan, and I am a Web Developer. I am interested in creating web-based applications. On this website, you will find some of my writings and things that I have created. I'm always learning and improving, and I'm excited to see what the future holds. Thank you for visiting my site. If you have any questions or comments, please feel free to contact me.",
+    "experiences": [
+        {
+            "id": "1",
+            "dates": "2020 - 2021",
+            "type": "Full Time",
+            "position": "Freelancer",
+            "bullets": "Laravel, JQuery"
+        },
+        {
+            "id": "2",
+            "dates": "July 2021 - August 2023",
+            "type": "Full Time",
+            "position": "Full Stack Developer at JD Teknologi",
+            "bullets": "Laravel, JQuery, Go Language, NuxtJs3"
+        }
+    ]
+}
