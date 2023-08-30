@@ -35,30 +35,7 @@
         }
     ],
     "projects": [
-        {
-            "id": "1",
-            "title": "Vencap",
-            "description": "Aplikasi untuk Vendor Capability Telkomsel",
-            "imageSrc": "../portfolio/verona.jpeg",
-            "technologies" : ["NuxtJs 3", "Yii 2", "Oracle", "Tailwind CSS"],
-            "url": "https://verona.telkomsel.com/fut"
-        },
-        {
-            "id": "2",
-            "title": "Referral",
-            "description": "Aplikasi Poin Agent Telkomsel",
-            "imageSrc": "../portfolio/referral.jpeg",
-            "technologies" : ["laravel 8 + JQuery", "Go Language", "Oracle", "Bootstrap 5"],
-            "url": "https://lolyta.telkomsel.com/referral"
-        },
-        {
-            "id": "3",
-            "title": "Daisy",
-            "description": "Aplikasi Akuntasi Telkomsel",
-            "imageSrc": "./portfolio/daisy.jpeg",
-            "technologies" : ["laravel 9 + JQuery", "Laravel 9", "Postgree", "Tailwind CSS"],
-            "url": "http://daisy.com/"
-        },
+        
         {
             "id": "4",
             "title": "Apotek",
