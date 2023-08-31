@@ -96,14 +96,25 @@
             "dates": "2020 - 2021",
             "type": "Full Time",
             "position": "Freelancer",
-            "bullets": "Laravel, JQuery"
+            "bullets": [
+                "Nusawiyasa (Laravel)",
+                "Kalika (Laravel + Go)",
+                "Felicity(Slicing Html, Tailwind CSS)",
+                "Borong Daging (Laravel)",
+                "Inventory (Laravel)"
+            ]
         },
         {
             "id": "2",
             "dates": "July 2021 - August 2023",
             "type": "Full Time",
             "position": "Full Stack Developer at JD Teknologi",
-            "bullets": "Laravel, JQuery, Go Language, NuxtJs3"
+            "bullets": [
+                "Telkomsel Referral (Laravel + Go)",
+                "Telkomsel Daisy (Laravel)",
+                "Telkomsel Verona (NuxtJS)",
+                "ASDP Ferizy (NuxtJS)"
+            ]
         }
     ]
 }

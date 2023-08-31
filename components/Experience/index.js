@@ -25,7 +25,13 @@ const ServiceCard = ({ experiences }) => {
                         </div>
                         <div >
                             <div>{item.position}</div>
-                            <span className="text-gray-500 text-base">{item.bullets}</span>
+                            <ul className="list-disc">
+                                {
+                                    item.bullets.map(bullet => (
+                                        <li className="text-gray-500 text-base">{bullet}</li>
+                                    ))
+                                }
+                            </ul>
                         </div>
 
                     </div>
